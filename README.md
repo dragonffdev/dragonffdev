@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dragonffdev
+- 👀 I’m interested in programming and web developing and making discord bots
+- 🌱 I’m currently learning php 
+- 📫 How to reach me on discord DRAGON FF , Amazon#7341
